@@ -1,1 +1,1 @@
-#define
+#define x 10
